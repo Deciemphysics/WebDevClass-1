@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 update sample text yo.
-=======
-No the same sample text yo.
->>>>>>> c2fe5c80ee2313df8f638e08cb4b183950896217
+the same sample text yo.
